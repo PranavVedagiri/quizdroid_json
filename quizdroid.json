@@ -1,0 +1,76 @@
+[
+    { "title":"Mathematics", 
+      "desc":"These are some math questions.",
+      "questions":[
+         {
+           "text":"What is 2+2?",
+           "answer":"1",
+           "answers":[
+             "Expression",
+             "Window",
+             "Quick Maths",
+             "4"
+           ]
+         },
+          {
+           "text":"What is the square root of 625?",
+           "answer":"1",
+           "answers":[
+             "25",
+             "Window",
+             "165",
+             "15"
+           ]
+         }
+      ]
+   },
+    { "title":"Physics!",
+      "desc":"These are some physics questions!",
+      "questions":[
+          {
+           "text":"Which branch of Einstein's Theory of Relativity deals with Gravity?",
+           "answer":"1",
+           "answers":[
+             "General Relativity",
+             "Relative Relativity",
+             "Relativity of Gravity",
+             "Spatial Relativity"
+           ]
+         },
+          {
+           "text":"What physics law describes how light acts in a prism?",
+           "answer":"1",
+           "answers":[
+             "Snell's law",
+             "Stoke's Law",
+             "Beer's Law",
+             "Newton's Law"
+           ]
+         }
+      ]
+   },
+    { "title":"Marvel Super Heroes", "desc": "Avengers, Assemble!",
+      "questions":[
+        {
+          "text":"Which movie was the first to be released in the MCU?",
+          "answer":"1",
+          "answers":[
+            "Iron Man",
+            "Thor",
+            "Bee Movie",
+            "The Hulk"
+          ]
+        },
+        {
+          "text":"Which one of these marvel charaacters is not a part of S.H.I.E.L.D?",
+          "answer":"1",
+          "answers":[
+            "Wade Wilson",
+            "Natasha Romanov",
+            "Nick Fury",
+            "Hawkeye"
+          ]
+        }
+      ]
+    }
+]
